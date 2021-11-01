@@ -1,0 +1,22 @@
+{
+  "name": "testbotv2",
+  "version": "1.0.0",
+  "description": "Bot untuk discord versi 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurogane677/discordbots.git"
+  },
+  "author": "Yusril",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurogane677/discordbots/issues"
+  },
+  "homepage": "https://github.com/kurogane677/discordbots#readme",
+  "dependencies": {
+    "discord.js": "^13.3.0"
+  }
+}
