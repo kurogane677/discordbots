@@ -1,22 +1,19 @@
 {
-  "name": "testbotv2",
+  "name": "testbotv1",
   "version": "1.0.0",
-  "description": "Bot untuk discord versi 13",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kurogane677/discordbots.git"
-  },
   "author": "Yusril",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kurogane677/discordbots/issues"
-  },
-  "homepage": "https://github.com/kurogane677/discordbots#readme",
   "dependencies": {
-    "discord.js": "^13.3.0"
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "firebase-admin": "^10.0.0",
+    "nodemon": "^2.0.14"
   }
 }
